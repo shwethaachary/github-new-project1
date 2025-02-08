@@ -1,3 +1,15 @@
+git init
+git status
+git add testing.py
+git status
+git commit -m "added commited files"
+ls
+clear
+history
+git status
+git remote -v
+git remote -v
+git push origin main
 
 
 this is the pull commands
